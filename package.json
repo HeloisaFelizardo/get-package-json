@@ -1,0 +1,22 @@
+{
+  "name": "get-package-json",
+  "version": "1.0.0",
+  "description": "Get Package Json",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeloisaFelizardo/get-package-json.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Heloisa Felizardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeloisaFelizardo/get-package-json/issues"
+  },
+  "homepage": "https://github.com/HeloisaFelizardo/get-package-json#readme"
+}
