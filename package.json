@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HeloisaFelizardo/get-package-json/issues"
   },
-  "homepage": "https://github.com/HeloisaFelizardo/get-package-json#readme"
+  "homepage": "https://github.com/HeloisaFelizardo/get-package-json#readme",
+  "dependencies": {
+    "learnjavascript-online-npm": "^1.2.0"
+  }
 }

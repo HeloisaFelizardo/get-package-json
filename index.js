@@ -4,9 +4,9 @@
 
 const getPackageJson = () => {
 	return {
-		name: 'getpackagejson',
+		name: 'get-package-json',
 		version: '1.0.0',
-		description: 'Test for get package json',
+		description: 'Get Package Json',
 		main: 'index.js',
 		scripts: {
 			test: 'test',
@@ -15,8 +15,8 @@ const getPackageJson = () => {
 			type: 'git',
 			url: 'git+https://github.com/HeloisaFelizardo/get-package-json.git',
 		},
-		keywords: ['get', 'package', 'json'],
-		author: 'Heloisa Felizardo Campos',
+		keywords: ['NPM'],
+		author: 'Heloisa Felizardo',
 		license: 'ISC',
 		bugs: {
 			url: 'https://github.com/HeloisaFelizardo/get-package-json/issues',
